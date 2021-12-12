@@ -6,6 +6,4 @@ function vidioChange(){
     classe.id = "myVideo";
     classe.src = change;
     baka.id = "null";
-    
-    
 }
