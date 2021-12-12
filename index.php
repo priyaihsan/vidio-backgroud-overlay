@@ -1,7 +1,7 @@
 <?php 
 
 $getdata = $_POST['add-vidio']
-$index = 'localstorage.php';
+$index = 'localstorage.html';
 if($getdata != null){
     $index = 'second.html';
 }
