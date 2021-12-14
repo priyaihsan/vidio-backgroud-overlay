@@ -2,10 +2,6 @@
 position: fixed;
 min-width: 100%;
 min-height: 100%;
-right: -250px;
-bottom: -215px;
-transform: scale(60%);
-
 }
 
 #null{
